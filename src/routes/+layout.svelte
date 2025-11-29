@@ -18,12 +18,12 @@
   <meta property="og:type" content="website">
 
   <!-- Replace this URL AFTER deploying -->
-  <meta property="og:url" content="https://your-domain.vercel.app">
+  <meta property="og:url" content="https://https://binsonthangjam.vercel.app">
 
   <!-- FAVICON -->
   <link rel="icon" href="/favicon.ico" />
 
-  <link rel="canonical" href="https://your-domain.vercel.app" />
+  <link rel="canonical" href="https://binsonthangjam.vercel.app" />
 
   <script type="application/ld+json">
     {
@@ -31,7 +31,7 @@
       "@type": "Person",
       "name": "Thangjam Binson Singh",
       "jobTitle": "Frontend Developer",
-      "url": "https://your-domain.vercel.app",
+      "url": "https://binsonthangjam.vercel.app",
       "sameAs": [
         "https://github.com/binnixie01",
         "https://www.linkedin.com/in/binson-thangjam"
